@@ -1,0 +1,33 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 10px 10px royalblue;
+}
+
+.NOTE{
+    font-size: 18px;
+    color: black;
+}
+
+.copyrightfooter {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: firebrick;
+  line-height: 3;
+  text-align: center;
+  color: goldenrod;
+  font-weight: bolder;
+}
+
+canvas{
+border: 5px dashed blue;
+border-radius: 4px;
+box-shadow: 5px 10px 15px thistle;
+}
+
+body {
+  background-image:url("word-background.jpg");
+  background-size: cover;
+}
