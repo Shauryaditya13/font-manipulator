@@ -15,10 +15,11 @@
   bottom: 0;
   width: 100%;
   background-color: firebrick;
-  line-height: 3;
+  line-height: 2;
   text-align: center;
   color: goldenrod;
   font-weight: bolder;
+  font-size: 16px;
 }
 
 canvas{
@@ -30,4 +31,8 @@ box-shadow: 5px 10px 15px thistle;
 body {
   background-image:url("word-background.jpg");
   background-size: cover;
+}
+
+#font_size {
+  font-size: 25px;
 }
